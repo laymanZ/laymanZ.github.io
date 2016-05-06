@@ -20,6 +20,13 @@
 .container img{
 	margin-top: 20px;
 	max-width: 100px;
+	border-radius: 100%;
+	cursor:pointer;
+
+}
+.container img:hover{
+	margin-top: 17px;
+	max-width: 103px;
 	border-radius: 100%
 
 }
