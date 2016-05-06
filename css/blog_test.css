@@ -1,0 +1,25 @@
+.title{
+	margin-top:2px;
+	margin-left: 2px;
+	font-size: 20px;
+	line-height: 85px;
+}
+.blog_leftShow{
+	margin-left: 19%;
+	margin-top: 40px;
+	position: absolute;
+}
+.blog_rightShow{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin-left: 800px;
+	background-color: #f5f5f5;
+	border-radius: 10px;
+	display: block;
+	padding-left: 20px;
+	padding-top: 5px;
+	max-width: 250px;
+	text-decoration: none;
+	padding-bottom: 10px;
+	padding-right: 20px;
+}
+
