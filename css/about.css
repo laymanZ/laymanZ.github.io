@@ -1,0 +1,39 @@
+.all{
+	background: #f5f5f5;
+}
+.container{
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.02),0 4px 10px rgba(0,0,0,0.06);
+	display: block;
+	border-radius: 10px;
+	margin-top: 80px;
+	width: 1170px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fff;
+	font-family: 'Microsoft YaHei', 'Helvetica','Arial','SimHei', sans-serif;
+}
+.imgP{
+	text-align: center;
+}
+.container img{
+	margin-top: 20px;
+	max-width: 100px;
+	border-radius: 100%
+
+}
+.about_name{
+	font-size: 25px;
+    line-height: 35px;
+    margin-top: 13px;
+    position: relative;
+}
+.about_hr{
+	margin: auto;
+	max-width: 140px;
+}
+.leftShow{
+	text-align: left;
+	margin-left: 20px;
+}
